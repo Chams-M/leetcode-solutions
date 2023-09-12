@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted">Range Sum of BST</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
+<h2><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted">Two Sum II </a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr>
 Given a <strong>1-indexed</strong> array of integers <code>numbers</code> that is already <strong>sorted in non-decreasing order</strong>, find two numbers such that they add up to a specific <code>target</code>number. Let these two numbers be <code>numbers[index1]</code> and <code>numbers[index2]</code> where <code>1 <= index1 < index2 < numbers.length.</code>
 Return the indices of the two numbers, <code>index1 </code>and <code>index2</code>, <strong>added by one </strong>as an integer array <code>[index1, index2]</code>  of length 2.
 
