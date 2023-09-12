@@ -5,6 +5,6 @@ class Solution(object):
         if target-num in dic:
             return [dic[target-num]+1, i+1]
         dic[num] = i
-                    
+                     
                    
                             
